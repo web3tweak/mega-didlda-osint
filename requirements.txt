@@ -1,8 +1,0 @@
-phonenumbers
-requests
-beautifulsoup4
-fake-useragent
-tqdm
-pyyaml
-validators
-dataclasses
